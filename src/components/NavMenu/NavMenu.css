@@ -1,0 +1,38 @@
+.navMenu{
+    position:fixed;
+    z-index: 100;
+    top: 0;
+    left: 0;
+    width:100%;
+    padding: 1rem 0;
+    background: beige;
+}
+ul{
+     max-width: 1000px;
+     margin: 0 auto;
+     width:50%;
+     text-align: center;
+}
+li{
+  display:inline-block;
+  border-radius:8px;
+  transition: 0.3s ease background-color;
+}
+li:hover{
+    background-color:darkgrey;
+    color:white;
+    
+}
+a{
+    display:inline-block;
+    text-decoration: none;
+    font-family: 'Roboto Regular';
+    padding: 1rem 1rem;
+    font-size: 1rem;
+    color:navy;
+    outline: none;
+}
+
+a.active{
+    font-weight: bold;
+}

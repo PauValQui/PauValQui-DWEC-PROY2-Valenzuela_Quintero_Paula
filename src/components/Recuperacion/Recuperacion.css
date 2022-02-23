@@ -1,0 +1,19 @@
+body {
+  font-family: -apple-system, Roboto, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.contenedorRecp{
+  width:100%;
+  height:100vh;
+  min-height: 500px;
+  margin-top:100px;
+  display:block;
+  position:relative;
+  margin-left:15px;
+}
+
+.demo {
+  font-family: "Fira Code", monospace;
+  width:95%;
+  height: 70vh;
+  
+}

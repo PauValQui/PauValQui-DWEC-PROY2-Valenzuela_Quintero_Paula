@@ -1,0 +1,16 @@
+.tituloHome{
+    width:100%;
+    position:relative;
+}
+
+.tituloHome span{
+    display:inline-block;
+    width:100%;
+}
+
+.tituloHome img{
+    height:50vh;
+    width:25%;
+    margin-top:10px;
+    border-radius: 25%;
+}

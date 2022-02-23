@@ -1,0 +1,15 @@
+.tituloPort{
+    width:100%;
+    position:relative;
+}
+
+.tituloPort span{
+    display:inline-block;
+    width:100%;
+}
+
+.EnlaceImg img{
+    height:50vh;
+    width:75%;
+    margin-top:10px;
+}

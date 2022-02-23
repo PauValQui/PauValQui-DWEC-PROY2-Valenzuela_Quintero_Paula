@@ -1,0 +1,30 @@
+.contenedor{
+    width:100%;
+    height:100vh;
+    min-height: 500px;
+    text-align:center;
+    display:grid;
+    align-items:end;
+    
+    position:relative;
+}
+.contenedorIzq{
+    width: 100%;
+}
+.contenedorIzq p{
+    margin-top:25px;
+}
+
+.NombreGrado{
+    font-weight: bold;
+}
+
+.contenedorDer{
+    width: 100%;
+}
+
+.ListaLeng li{
+    list-style:none;
+    display:block;
+    margin-top:10px;
+}
