@@ -2,7 +2,7 @@
   "name": "portfolio1",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://github.com/PauValWui/DWEC-PROY2-Valenzuela_Quintero_Paula.git/",
+  "homepage":" https://pauvalqui.github.io/PauValQui-DWEC-PROY2-Valenzuela_Quintero_Paula/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.2",
